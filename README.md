@@ -16,6 +16,7 @@ This project presents an interactive Excel dashboard built to analyze sales perf
 - Dashboard Design
 
 
+## Key Contributions
 
 • Built an interactive Excel sales dashboard using Pivot Tables and charts to analyze sales trends, regions, and product performance.
 • Enabled data-driven insights through data cleaning, visualization, and KPI-based dashboard design.
