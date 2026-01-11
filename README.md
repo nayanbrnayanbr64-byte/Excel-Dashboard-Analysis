@@ -6,4 +6,14 @@
 
 This project presents an interactive Excel dashboard built to analyze sales performance across time, regions, and product categories. The dashboard helps identify trends, top-performing products, and key business insights using visual analytics.
 
+## Tools & Technologies
+
+- Microsoft Excel
+- Pivot Tables
+- Charts & Visualizations
+- Data Cleaning
+- Sales Data Analysis
+- Dashboard Design
+
+
 
